@@ -1,0 +1,7 @@
+Count of 2: 3
+Index of 20: 3
+Combined: (1, 2, 3, 4)
+First tuple: (1, 2)
+Second tuple: (3, 4)
+Modified tuple: (1, 100, 3)
+Length: 3
